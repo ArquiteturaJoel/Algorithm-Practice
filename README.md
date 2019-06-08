@@ -2,7 +2,7 @@
 
 ## freeCodeCamp (JavaScript)
 ### Basic Algorithm Scripting
-- [Reverse a String](reverse-a-string.js)
+- [Reverse a String](reverse a string.js)
 
 ## LeetCode
 
