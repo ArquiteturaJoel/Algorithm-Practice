@@ -8,6 +8,13 @@
 - [Confirm the Ending](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Confirm%20the%20Ending.js)
 - [Repeat a String Repeat a String](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Repeat%20a%20String%20Repeat%20a%20String.js)
 - [Truncate a String](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Truncate%20a%20String.js)
+- [Finders Keepers](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Finders%20Keepers.js)
+- [Boo who](https://github.com/ming-yong/Algorithm-Practice/tree/master/freeCodeCamp)
+- []()
+- []()
+- []()
+- []()
+- []()
 - []()
 
 ## LeetCode
