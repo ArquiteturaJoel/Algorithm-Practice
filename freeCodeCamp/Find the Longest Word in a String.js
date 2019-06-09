@@ -1,10 +1,10 @@
 /*
 Find the Longest Word in a String
 - Return the length of the longest word in the provided sentence.
+- findLongestWordLength("May the force be with you") should return 5.
 */
 
-//My solution: similar to fcc basic solution
-
+//my solution: similar to fcc basic solution
 function findLongestWordLength(str) {
   let words = str.split(" ");
   let longest = 0;
