@@ -17,6 +17,29 @@
 - [Mutations](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Mutations.js)
 - [Chunky Monkey](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Chunky%20Monkey.js)
 
+### Intermediate Algorithm Scripting
+- [Sum All Numbers in a Range](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Sum%20All%20Numbers%20in%20a%20Range.js)
+- [Diff Two Arrays](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Diff%20Two%20Arrays.js)
+- [Seek and Destroy](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Seek%20and%20Destroy.js)
+- [Wherefore art thou](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Wherefore%20art%20thou.js)
+- [Spinal Tap Case](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Spinal%20Tap%20Case.js)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 ## LeetCode
 
 | No  | Problem      | Level         | Language     | Tags          |
