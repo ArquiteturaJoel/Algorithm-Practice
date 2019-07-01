@@ -41,9 +41,9 @@
 | 11   |[Sum All Odd Fibonacci Numbers](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Sum%20All%20Odd%20Fibonacci%20Numbers.js)|:full_moon_with_face:|
 | 12   |[Sum All Primes](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Sum%20All%20Primes.js)|:new_moon_with_face:|
 | 13   |[Smallest Common Multiple](https://github.com/ming-yong/Algorithm-Practice/tree/master/freeCodeCamp)|:new_moon_with_face:|
-| 14   |[]()|:full_moon_with_face:|
-| 15   |[]()|:full_moon_with_face:|
-| 16   |[]()|:full_moon_with_face:|
+| 14   |[Drop it](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Drop%20it.js)|:full_moon_with_face:|
+| 15   |[Steamroller](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Steamroller.js)|:full_moon_with_face:|
+| 16   |[Binary Agents](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Binary%20Agents.js)|:full_moon_with_face:|
 | 17   |[]()|:full_moon_with_face:|
 | 18   |[]()|:full_moon_with_face:|
 | 19   |[]()|:full_moon_with_face:|
