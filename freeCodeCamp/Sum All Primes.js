@@ -6,25 +6,55 @@ Sum All Primes
 - sumPrimes(10) should return 17.
 */
 
-//my solution based on StackOverFlow
+//my understanding solution based on StackOverFlow
 function sumPrimes(num) {
   let result = getPrimes(num).reduce((acc,cur)=>acc+cur);
   return result;
 }
 
 function getPrimes(max) {
-    var sieve = [], i, j, primes = [];
-    for (i = 2; i <= max; ++i) {
-        if (!sieve[i]) {
-            // i has not been marked -- it is prime
-            primes.push(i);
-            for (j = i << 1; j <= max; j += i) {
-                sieve[j] = true;
-            }
-        }
-    }
-    return primes;
+  var sieve = [], i, j, primes = [];
+  //from 2 to n
+  for (i = 2; i <= max; ++i) {
+      if (!sieve[i]) {
+          // i has not been marked -- it is prime
+          primes.push(i);
+          for (j = i << 1; j <= max; j += i) {
+            //mark multiplier of i to true, so that it will be sieve.
+              sieve[j] = true;
+          }
+      }
+  }
+  return primes;
 }
+/*
+<< is a bitwise left shift, exp: 9 << 3 translates to: 9 * (2 ** 3) = 9 * (8) = 72.
+What getPrimes() does:
+- i=2
+  - sieve[2] is not true, enter loop
+    - primes = [2]
+    - j = 2<<1 = 2 * (2^1) = 2*2 = 4
+      - j=4<10: sieve[4]=true
+      - j=4+2=6<10: sieve[6]=true
+      - j=6+2=8<10: sieve[8]=true
+      - j=8+2=10=10,loop ends,primes = [2], sieve = [,,,,true,,true,,true]
+- i=3
+  - sieve[3] is not true, enter loop
+    - primes = [2,3]
+    - j = 3<<1 = 3*2 = 6
+      - j=6<10: sieve[6]= true
+      - j=8 and then 10, loop ends, primes = [2,3], sieve = [,,,,true,,true,,true]
+- i=4
+  - sieve[4] is true, skip loop
+- i=5
+  - sieve[5] is not true, enter loop
+    - primes = [2,3,5]
+    - j = 5<<1 = 5*2 = 10, 10 is not < 10
+- so on and so forth.
+- primes collect prime number
+- sieve marks multiplier of the prime number to true
+- primes only collect number that is not mark as true, therefore, a prime number
+*/
 
 //fcc solution
 //basic
