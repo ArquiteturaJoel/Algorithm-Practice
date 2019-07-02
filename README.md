@@ -49,6 +49,17 @@
 | 19   |[Make a Person](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Make%20a%20Person.js)|:full_moon_with_face:|
 | 20   |[Map the Debris](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Map%20the%20Debris.js)|:full_moon_with_face:|
 
+
+### JavaScript Algorithms and Data Structures Projects
+| No  | Projects     |Status|
+| :-: | :----------: |:----:|
+|0    |[Palindrome Checker](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Palindrome%20Checker.js)|:full_moon_with_face:|
+|1    |[]()|:full_moon_with_face:|
+|2    |[]()|:full_moon_with_face:|
+|3    |[]()|:full_moon_with_face:|
+|4    |[]()|:full_moon_with_face:|
+
+
 ## LeetCode
 
 | No  | Problem      | Level         | Language     | Tags          |Status|
