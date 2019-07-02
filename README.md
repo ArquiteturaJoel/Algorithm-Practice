@@ -1,8 +1,8 @@
 # Algorithm Practice
 ## status
 - solve it perfectly! = :sun_with_face:
-- have room to improve, try it again someday. = :full_moon_with_face:
-- not sure what's going on, couldn't solve at all. = :new_moon_with_face:
+- have room to improve, want to try it again someday. = :full_moon_with_face:
+- couldn't solve it all/couldn't solve at all. = :new_moon_with_face:
 
 ## freeCodeCamp (JavaScript) 
 ### Basic Algorithm Scripting
@@ -44,10 +44,10 @@
 | 14   |[Drop it](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Drop%20it.js)|:full_moon_with_face:|
 | 15   |[Steamroller](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Steamroller.js)|:full_moon_with_face:|
 | 16   |[Binary Agents](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Binary%20Agents.js)|:full_moon_with_face:|
-| 17   |[]()|:full_moon_with_face:|
-| 18   |[]()|:full_moon_with_face:|
-| 19   |[]()|:full_moon_with_face:|
-| 20   |[]()|:full_moon_with_face:|
+| 17   |[Everything Be True](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Everything%20Be%20True.js)|:full_moon_with_face:|
+| 18   |[Arguments Optional](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Arguments%20Optional.js)|:new_moon_with_face:|
+| 19   |[Make a Person](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Make%20a%20Person.js)|:full_moon_with_face:|
+| 20   |[Map the Debris](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Map%20the%20Debris.js)|:full_moon_with_face:|
 
 ## LeetCode
 
