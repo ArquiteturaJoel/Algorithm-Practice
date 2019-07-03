@@ -54,9 +54,9 @@
 | No  | Projects     |Status|
 | :-: | :----------: |:----:|
 |0    |[Palindrome Checker](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Palindrome%20Checker.js)|:full_moon_with_face:|
-|1    |[]()|:full_moon_with_face:|
-|2    |[]()|:full_moon_with_face:|
-|3    |[]()|:full_moon_with_face:|
+|1    |[Roman Numeral Converter](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Roman%20Numeral%20Converter.js)|:full_moon_with_face:|
+|2    |[Caesars Cipher](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Caesars%20Cipher.js)|:full_moon_with_face:|
+|3    |[Telephone Number Validator](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Telephone%20Number%20Validator.js)|:full_moon_with_face:|
 |4    |[]()|:full_moon_with_face:|
 
 
