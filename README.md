@@ -31,7 +31,7 @@
 | 0   |[Sum All Numbers in a Range](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Sum%20All%20Numbers%20in%20a%20Range.js)|:full_moon_with_face:|
 | 1   |[Diff Two Arrays](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Diff%20Two%20Arrays.js)|:full_moon_with_face:|
 | 2   |[Seek and Destroy](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Seek%20and%20Destroy.js)|:full_moon_with_face:|
-| 3   |[Wherefore art thou](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Wherefore%20art%20thou.js)|:new_moon_with_face:|
+| 3   |[Wherefore art thou](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Wherefore%20art%20thou.js)|:full_moon_with_face::pushpin:|
 | 4   |[Spinal Tap Case](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Spinal%20Tap%20Case.js)|:full_moon_with_face:|
 | 5   |[Pig Latin](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Pig%20Latin.js)|:full_moon_with_face:|
 | 6   |[Search and Replace](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Search%20and%20Replace.js)|:full_moon_with_face:|
@@ -46,7 +46,7 @@
 | 15   |[Steamroller](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Steamroller.js)|:full_moon_with_face:|
 | 16   |[Binary Agents](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Binary%20Agents.js)|:full_moon_with_face:|
 | 17   |[Everything Be True](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Everything%20Be%20True.js)|:full_moon_with_face:|
-| 18   |[Arguments Optional](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Arguments%20Optional.js)|:new_moon_with_face:|
+| 18   |[Arguments Optional](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Arguments%20Optional.js)|:full_moon_with_face::pushpin:|
 | 19   |[Make a Person](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Make%20a%20Person.js)|:full_moon_with_face:|
 | 20   |[Map the Debris](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Map%20the%20Debris.js)|:full_moon_with_face:|
 
@@ -58,7 +58,7 @@
 |1    |[Roman Numeral Converter](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Roman%20Numeral%20Converter.js)|:full_moon_with_face:|
 |2    |[Caesars Cipher](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Caesars%20Cipher.js)|:full_moon_with_face:|
 |3    |[Telephone Number Validator](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Telephone%20Number%20Validator.js)|:full_moon_with_face:|
-|4    |[Cash Register](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Cash%20Register.js)|:new_moon_with_face:|
+|4    |[Cash Register](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Cash%20Register.js)|:full_moon_with_face::pushpin:|
 
 
 ## LeetCode
