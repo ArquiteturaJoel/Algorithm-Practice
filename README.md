@@ -3,6 +3,7 @@
 - solve it perfectly! = :sun_with_face:
 - have room to improve, want to try it again someday. = :full_moon_with_face:
 - couldn't solve it all/couldn't solve at all. = :new_moon_with_face:
+- learned a lot = :pushpin:
 
 ## freeCodeCamp (JavaScript) 
 ### Basic Algorithm Scripting
@@ -31,7 +32,7 @@
 | 1   |[Diff Two Arrays](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Diff%20Two%20Arrays.js)|:full_moon_with_face:|
 | 2   |[Seek and Destroy](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Seek%20and%20Destroy.js)|:full_moon_with_face:|
 | 3   |[Wherefore art thou](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Wherefore%20art%20thou.js)|:new_moon_with_face:|
-| 4   |[Spinal Tap Case](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Spinal%20Tap%20Case.js)|:new_moon_with_face:|
+| 4   |[Spinal Tap Case](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Spinal%20Tap%20Case.js)|:full_moon_with_face:|
 | 5   |[Pig Latin](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Pig%20Latin.js)|:full_moon_with_face:|
 | 6   |[Search and Replace](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Search%20and%20Replace.js)|:full_moon_with_face:|
 | 7   |[DNA Pairing](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/DNA%20Pairing.js)|:full_moon_with_face:|
@@ -39,8 +40,8 @@
 | 9   |[Sorted Union](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Sorted%20Union.js)|:full_moon_with_face:|
 | 10   |[Convert HTML Entities](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Convert%20HTML%20Entities.js)|:full_moon_with_face:|
 | 11   |[Sum All Odd Fibonacci Numbers](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Sum%20All%20Odd%20Fibonacci%20Numbers.js)|:full_moon_with_face:|
-| 12   |[Sum All Primes](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Sum%20All%20Primes.js)|:new_moon_with_face:|
-| 13   |[Smallest Common Multiple](https://github.com/ming-yong/Algorithm-Practice/tree/master/freeCodeCamp)|:new_moon_with_face:|
+| 12   |[Sum All Primes](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Sum%20All%20Primes.js)|:full_moon_with_face::pushpin:|
+| 13   |[Smallest Common Multiple](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Smallest%20Common%20Multiple.js)|:full_moon_with_face::pushpin:|
 | 14   |[Drop it](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Drop%20it.js)|:full_moon_with_face:|
 | 15   |[Steamroller](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Steamroller.js)|:full_moon_with_face:|
 | 16   |[Binary Agents](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Binary%20Agents.js)|:full_moon_with_face:|
