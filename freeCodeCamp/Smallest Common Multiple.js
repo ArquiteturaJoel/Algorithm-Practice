@@ -83,6 +83,21 @@ function smallestCommons(arr) {
   return quot;
 }
 
+/*walkthrough
+arr=[5,1]
+newArr=[5,4,3,2,1]
+  loop=1: quot =5*1*4 =20
+    n=2: 20%2 == 0
+    n=3: 20%3 !==0, break
+  loop=2: quot =40
+    n=2: 40%2 == 0
+    n=3: 40%3 !==0, break
+  loop=3: quot =60
+    n=2, n=3, n=4 n=5 passed
+    n==newArr.length
+    return quot(60)
+*/
+
 //intermediate
 function smallestCommons(arr) {
     var range = [];
