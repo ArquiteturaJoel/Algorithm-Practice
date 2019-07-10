@@ -5,7 +5,8 @@ Spinal Tap Case
 - spinalCase("AllThe-small Things") should return "all-the-small-things".
 */
 
-//my solution: couldn't figure out how to do the low-space-uppercase
+//my solution
+//old: couldn't figure out how to do the low-space-uppercase
 function spinalCase(str) {
   // "It's such a fine line between stupid, and clever."
   // --David St. Hubbins
@@ -15,6 +16,25 @@ function spinalCase(str) {
   str = str.replace(/[_-]/g," ")
   str = str.split(" ").join("-").toLowerCase();
   return str;
+}
+
+//new
+function spinalCase(str) {
+  // "It's such a fine line between stupid, and clever."
+  // --David St. Hubbins
+  let answer=[];
+  str = str.split("");
+  for(let i=0;i<str.length;i++){
+    if(str[i]=="_"||str[i]=="-"||str[i]==" "){
+      answer.push("-");
+    }else if(str[i]==str[i].toUpperCase() && i>0 &&/[a-z]/ig.test(str[i-1])){
+      answer.push("-");
+      answer.push(str[i].toLowerCase());
+    }else{
+      answer.push(str[i].toLowerCase());
+    }
+  }
+  return answer.join("");
 }
 
 //fcc solution
