@@ -5,6 +5,12 @@
 - couldn't solve it all/couldn't solve at all. = :new_moon_with_face:
 - learned a lot = :pushpin:
 
+## LeetCode
+
+|No |Problem|Difficulty,Aceptance|Language|Tags|Status|
+|:-:|:-----:|:------------------: |:------:|:--:|:----:|
+|0|[1108. Defanging an IP Address](https://github.com/ming-yong/Algorithm-Practice/blob/master/LeetCode/1108.%20Defanging%20an%20IP%20Address.js)|Easy,88.5%|JavaScript|String|:full_moon_with_face:|
+
 ## freeCodeCamp (JavaScript) 
 ### Basic Algorithm Scripting
 | No   | Problem      |Status|
@@ -59,10 +65,3 @@
 |2    |[Caesars Cipher](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Caesars%20Cipher.js)|:full_moon_with_face:|
 |3    |[Telephone Number Validator](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Telephone%20Number%20Validator.js)|:full_moon_with_face:|
 |4    |[Cash Register](https://github.com/ming-yong/Algorithm-Practice/blob/master/freeCodeCamp/Cash%20Register.js)|:full_moon_with_face::pushpin:|
-
-
-## LeetCode
-
-| No  | Problem      | Level         | Language     | Tags          |Status|
-| :-: | :----------: | :-----------: | :----------: | :-----------: |:----:|
-| 0   |              |               |              |               |      |
