@@ -10,6 +10,7 @@
 |No |Problem|Difficulty,Aceptance|Language|Tags|Status|
 |:-:|:-----:|:------------------: |:------:|:--:|:----:|
 |0|[1108. Defanging an IP Address](https://github.com/ming-yong/Algorithm-Practice/blob/master/LeetCode/1108.%20Defanging%20an%20IP%20Address.js)|Easy,88.5%|JavaScript|String|:full_moon_with_face:|
+|1|[852. Peak Index in a Mountain Array](https://github.com/ming-yong/Algorithm-Practice/blob/master/LeetCode/852.%20Peak%20Index%20in%20a%20Mountain%20Array)|Easy,70.0%|JavaScript|Array|:sun_with_face:|
 
 ## freeCodeCamp (JavaScript) 
 ### Basic Algorithm Scripting
