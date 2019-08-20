@@ -1,16 +1,15 @@
 # Algorithm Practice
 ## status
-- solve it perfectly! = :sun_with_face:
-- have room to improve, want to try it again someday. = :full_moon_with_face:
-- couldn't solve it all/couldn't solve at all. = :new_moon_with_face:
-- learned a lot = :pushpin:
+- solved, have room to improve. = :full_moon_with_face:
+- haven't solved it yet. = :new_moon_with_face:
+- will try it again someday. = :pushpin:
 
 ## LeetCode
 
 |No |Problem|Difficulty,Aceptance|Language|Tags|Status|
 |:-:|:-----:|:------------------: |:------:|:--:|:----:|
 |0|[1108. Defanging an IP Address](https://github.com/ming-yong/Algorithm-Practice/blob/master/LeetCode/1108.%20Defanging%20an%20IP%20Address.js)|Easy,88.5%|JavaScript|String|:full_moon_with_face:|
-|1|[852. Peak Index in a Mountain Array](https://github.com/ming-yong/Algorithm-Practice/blob/master/LeetCode/852.%20Peak%20Index%20in%20a%20Mountain%20Array)|Easy,70.0%|JavaScript|Array|:sun_with_face:|
+|1|[852. Peak Index in a Mountain Array](https://github.com/ming-yong/Algorithm-Practice/blob/master/LeetCode/852.%20Peak%20Index%20in%20a%20Mountain%20Array)|Easy,70.0%|JavaScript|Array|:full_moon_with_face:|
 
 ## freeCodeCamp (JavaScript) 
 ### Basic Algorithm Scripting
